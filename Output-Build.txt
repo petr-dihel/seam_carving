@@ -1,0 +1,36 @@
+﻿1>------ Build started: Project: ConsoleApplication1, Configuration: Debug x64 ------
+1>ConsoleApplication1.cpp
+1>SeamCarving.cpp
+1>c:\users\petr\source\repos\consoleapplication1\consoleapplication1\seamcarving.cpp(52): warning C4244: 'argument': conversion from 'const _Ty' to 'int', possible loss of data
+1>        with
+1>        [
+1>            _Ty=double
+1>        ]
+1>c:\users\petr\source\repos\consoleapplication1\consoleapplication1\seamcarving.cpp(54): warning C4244: 'argument': conversion from 'const _Ty' to 'int', possible loss of data
+1>        with
+1>        [
+1>            _Ty=double
+1>        ]
+1>c:\users\petr\source\repos\consoleapplication1\consoleapplication1\seamcarving.cpp(67): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+1>c:\users\petr\source\repos\consoleapplication1\consoleapplication1\seamcarving.cpp(252): warning C4244: 'initializing': conversion from 'const _Ty' to 'int', possible loss of data
+1>        with
+1>        [
+1>            _Ty=double
+1>        ]
+1>c:\users\petr\source\repos\consoleapplication1\consoleapplication1\seamcarving.cpp(253): warning C4244: 'argument': conversion from 'const _Ty' to 'int', possible loss of data
+1>        with
+1>        [
+1>            _Ty=double
+1>        ]
+1>c:\users\petr\source\repos\consoleapplication1\consoleapplication1\seamcarving.cpp(255): warning C4244: 'argument': conversion from 'const _Ty' to 'int', possible loss of data
+1>        with
+1>        [
+1>            _Ty=double
+1>        ]
+1>c:\users\petr\source\repos\consoleapplication1\consoleapplication1\seamcarving.cpp(245): warning C4101: 'current_pixel': unreferenced local variable
+1>c:\users\petr\source\repos\consoleapplication1\consoleapplication1\seamcarving.cpp(283): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+1>c:\users\petr\source\repos\consoleapplication1\consoleapplication1\seamcarving.cpp(381): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+1>Generating Code...
+1>ConsoleApplication1.vcxproj -> C:\Users\Petr\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+1>Done building project "ConsoleApplication1.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
